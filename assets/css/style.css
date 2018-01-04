@@ -213,3 +213,63 @@ body{
   -webkit-transform:rotate(360deg);  
   /*-webkit-font-smoothing:antialiased;*/
 }
+
+/*Contactos*/
+.naty {
+  background: #F8B195;
+  height: 4em;
+  width: 78em;
+}
+.pestañas {
+  background: #F2727F;
+  height: 4em;
+  width: 78em;
+}
+.search {
+  background: #C66988;
+  height: 4em;
+  width: 78em;
+} 
+.contactos {
+  background: #6C5B7D;
+  height: auto;
+  width: 78em;
+}
+
+.contact {
+  background: #FFF;
+  height: auto;
+  margin: 5em 1em 1em 7em;
+  padding: 1em 1em 1em 1em;
+  width: 65em;
+}
+.abc {
+  background: #F8B195;
+  height: 1em;
+  width: auto;
+}
+
+.photo {
+  background-size: 193%;
+  height: 4em;
+  width: 4em;
+}
+
+.footer {
+  background: #325D7F;
+  height: 5em;
+  width: 78em;
+}
+
+.small-box {
+  background: #325D7F;
+  color: #E9E9E9;
+  float: left;
+  height: 4em;
+  margin: 1em 1em 1em 1em;
+  text-align: center;
+  width: 3em;
+}
+.small-box: hover {
+  color: #F8B195;
+}
